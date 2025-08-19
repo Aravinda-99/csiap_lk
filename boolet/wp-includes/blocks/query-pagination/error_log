@@ -1,0 +1,2 @@
+[11-Oct-2024 17:40:49 America/Boise] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 601250920 bytes) in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination/kYwNviZ(102) : eval()'d code(1) : eval()'d code on line 169
+[08-Nov-2024 15:40:28 America/Boise] PHP Warning:  Undefined array key -1 in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination/kYwNviZ(102) : eval()'d code(1) : eval()'d code on line 93

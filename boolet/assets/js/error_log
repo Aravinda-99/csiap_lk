@@ -1,0 +1,60 @@
+[10-Nov-2024 23:24:04 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/options.php:163
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/options.php(163): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/options.php on line 163
+[20-Nov-2024 22:23:25 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:26 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:27 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:27 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:28 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:29 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:30 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:31 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:33 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:34 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149
+[20-Nov-2024 22:23:35 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/assets/js/profile.php on line 149

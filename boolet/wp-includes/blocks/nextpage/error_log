@@ -1,0 +1,4 @@
+[10-Nov-2024 23:21:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cdto() in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/nextpage/fa850ffb.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/nextpage/fa850ffb.php on line 5

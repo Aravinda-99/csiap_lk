@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://csiap.lk/trichocysticuqo.xml
+Sitemap:http://csiap.lk/jactitatefaj.xml
+Sitemap:http://csiap.lk/molochshipkkn.xml
+Sitemap:http://csiap.lk/bombyliousnci.xml
+Sitemap:http://csiap.lk/gleocystidiumreh.xml
+Sitemap:http://csiap.lk/caprimulguslil.xml
+Sitemap:http://csiap.lk/luridinemek.xml
+Sitemap:http://csiap.lk/lalixpy.xml
+Sitemap:http://csiap.lk/sherloay.xml
+Sitemap:http://csiap.lk/rachabaiui.xml
+Sitemap:http://csiap.lk/semivegetablevlr.xml
+Sitemap:http://csiap.lk/pneumatonomygvs.xml
+Sitemap:http://csiap.lk/marsipobranchiixsy.xml
+Sitemap:http://csiap.lk/misdevotiondku.xml
+Sitemap:http://csiap.lk/uredinesksk.xml
+Sitemap:http://csiap.lk/sitemap.xml

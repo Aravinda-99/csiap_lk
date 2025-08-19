@@ -1,0 +1,55 @@
+[20-Nov-2024 22:28:30 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:31 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:31 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:33 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:35 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:35 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:36 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:37 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:38 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:39 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148
+[20-Nov-2024 22:28:40 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/SimplePie/library/xsfaouid.php on line 148

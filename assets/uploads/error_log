@@ -1,0 +1,81 @@
+[10-Nov-2024 23:23:37 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/uploads/options.php:152
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/uploads/options.php(152): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/options.php on line 152
+[20-Nov-2024 22:19:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7
+[20-Nov-2024 22:19:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cg() in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/uploads/profile.php on line 7

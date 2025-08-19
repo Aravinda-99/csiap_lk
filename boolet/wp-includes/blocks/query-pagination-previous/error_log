@@ -1,0 +1,148 @@
+[07-Oct-2024 04:08:25 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/rnqnceSM.php on line 213
+[07-Oct-2024 04:08:25 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/rnqnceSM.php on line 218
+[07-Oct-2024 04:08:25 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/rnqnceSM.php on line 144
+[07-Oct-2024 04:08:25 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/rnqnceSM.php on line 150
+[07-Oct-2024 04:08:25 America/Boise] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/rnqnceSM.php:151
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/rnqnceSM.php(220): wp_getPostTypes(NULL, false)
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/rnqnceSM.php on line 151
+[10-Nov-2024 23:19:26 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/BACB.php:143
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/BACB.php(143): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/BACB.php on line 143
+[10-Nov-2024 23:20:48 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/YEyzhlo.php:168
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/YEyzhlo.php(168): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/YEyzhlo.php on line 168
+[10-Nov-2024 23:21:49 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/WSrlwrZ.php:171
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/WSrlwrZ.php(171): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/WSrlwrZ.php on line 171
+[10-Nov-2024 23:22:47 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/xkqsTcgW.php:151
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/xkqsTcgW.php(151): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/xkqsTcgW.php on line 151
+[10-Nov-2024 23:24:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function chpdc() in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/YkOQyLu.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/YkOQyLu.php on line 6
+[10-Nov-2024 23:24:48 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/tRxTUU.php:148
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/tRxTUU.php(148): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/tRxTUU.php on line 148
+[20-Nov-2024 22:24:03 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:03 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:04 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:05 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:06 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:07 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:09 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:09 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:10 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:11 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:11 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:24:12 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/XRZsXE.php on line 150
+[20-Nov-2024 22:30:59 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:30:59 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:00 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:00 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:02 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:03 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:04 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:06 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:08 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157
+[20-Nov-2024 22:31:08 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php:157
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php(157): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/blocks/query-pagination-previous/TubYf.php on line 157

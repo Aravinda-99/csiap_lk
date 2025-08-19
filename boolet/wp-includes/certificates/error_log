@@ -1,0 +1,4 @@
+[10-Nov-2024 23:19:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function ct() in /home2/sltdigit/public_html/csiap/boolet/wp-includes/certificates/pjtrnqkp.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/certificates/pjtrnqkp.php on line 5

@@ -1,0 +1,90 @@
+[10-Nov-2024 23:22:14 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/admin-ajax.php:152
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/admin-ajax.php(152): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/admin-ajax.php on line 152
+[20-Nov-2024 22:27:51 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:27:51 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:27:54 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:27:57 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:27:57 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:27:59 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:00 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:02 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:03 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:03 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:05 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:06 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:07 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:08 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:09 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:11 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155
+[20-Nov-2024 22:28:12 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php:155
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php(155): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/default-shape/kfgunjch.php on line 155

@@ -1,0 +1,65 @@
+[18-May-2024 15:34:07 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'XLY')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[18-May-2024 15:35:03 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'rYBcAID')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[18-May-2024 15:35:28 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'py')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[18-May-2024 15:36:34 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'DcRVvlX')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[18-May-2024 15:37:18 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'dRy')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[18-May-2024 15:37:53 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'v')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[18-May-2024 15:39:27 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'ULImvp')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[18-May-2024 15:39:44 America/Boise] PHP Fatal error:  Uncaught TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl:236
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl(236): str_replace('[USERROOT]', Array, '[USERROOT]/publ...')
+#1 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(85): include('/home2/sltdigit...')
+#2 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(123): cisum('b3a0cfe7-bc86-4...', Array)
+#3 /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/admin.php(139): mdsojihclu(Array, 'b3a0cfe7-bc86-4...', 'EcjRpFQ')
+#4 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 236
+[22-Jun-2024 17:40:48 America/Boise] PHP Warning:  Undefined array key -1 in /home2/sltdigit/public_html/csiap/.well-known/acme-challenge/00bc9177c55246e36d90647beab787b3.pl on line 93
