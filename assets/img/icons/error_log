@@ -1,0 +1,5 @@
+[10-Nov-2024 23:24:06 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/icons/options.php:138
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/icons/options.php(138): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/icons/options.php on line 138

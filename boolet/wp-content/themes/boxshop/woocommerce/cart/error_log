@@ -1,0 +1,5 @@
+[10-Nov-2024 23:20:43 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-content/themes/boxshop/woocommerce/cart/41faec5d.php:126
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-content/themes/boxshop/woocommerce/cart/41faec5d.php(126): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-content/themes/boxshop/woocommerce/cart/41faec5d.php on line 126

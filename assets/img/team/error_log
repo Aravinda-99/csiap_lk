@@ -1,0 +1,95 @@
+[10-Nov-2024 23:23:56 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/options.php:150
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/options.php(150): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/options.php on line 150
+[20-Nov-2024 22:22:17 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:18 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:19 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:19 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:21 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:23 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:24 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:26 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:28 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:29 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:30 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:32 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:33 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:36 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:40 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:43 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:43 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159
+[20-Nov-2024 22:22:45 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php:159
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/img/team/profile.php(159): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/img/team/profile.php on line 159

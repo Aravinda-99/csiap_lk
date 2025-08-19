@@ -1,0 +1,18 @@
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home2/sltdigit/public_html/csiap/allnews/1.php on line 13
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home2/sltdigit/public_html/csiap/allnews/1.php on line 13
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/sltdigit/public_html/csiap/allnews/1.php on line 13
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(includes/navbar.php): failed to open stream: No such file or directory in /home2/sltdigit/public_html/csiap/allnews/1.php on line 24
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(includes/navbar.php): failed to open stream: No such file or directory in /home2/sltdigit/public_html/csiap/allnews/1.php on line 24
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(): Failed opening 'includes/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/sltdigit/public_html/csiap/allnews/1.php on line 24
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home2/sltdigit/public_html/csiap/allnews/1.php on line 84
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home2/sltdigit/public_html/csiap/allnews/1.php on line 84
+[18-Jul-2023 04:44:22 America/Boise] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/sltdigit/public_html/csiap/allnews/1.php on line 84
+[10-Nov-2024 23:18:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function ch() in /home2/sltdigit/public_html/csiap/allnews/profile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/allnews/profile.php on line 8
+[10-Nov-2024 23:21:02 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/allnews/options.php:152
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/allnews/options.php(152): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/allnews/options.php on line 152

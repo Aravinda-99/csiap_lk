@@ -1,0 +1,34 @@
+[10-Nov-2024 23:19:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cysk() in /home2/sltdigit/public_html/csiap/.well-known/profile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/profile.php on line 7
+[10-Nov-2024 23:21:26 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/.well-known/options.php:160
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/options.php(160): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/options.php on line 160
+[05-Mar-2025 13:49:04 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/.well-known/options.php:160
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/options.php(160): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/options.php on line 160
+[05-Mar-2025 22:05:16 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/.well-known/options.php:160
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/options.php(160): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/options.php on line 160
+[07-Mar-2025 01:29:22 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/.well-known/options.php:160
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/options.php(160): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/options.php on line 160
+[08-Mar-2025 19:58:13 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/.well-known/options.php:160
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/options.php(160): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/options.php on line 160
+[09-Mar-2025 18:36:32 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/.well-known/options.php:160
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/.well-known/options.php(160): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/.well-known/options.php on line 160

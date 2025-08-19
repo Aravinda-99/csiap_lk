@@ -1,0 +1,10 @@
+[10-Nov-2024 23:18:56 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/js/profile.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/js/profile.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/js/profile.php on line 149
+[10-Nov-2024 23:21:13 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/assets/js/options.php:149
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/assets/js/options.php(149): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/assets/js/options.php on line 149

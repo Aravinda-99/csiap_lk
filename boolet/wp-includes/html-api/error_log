@@ -1,0 +1,10 @@
+[10-Nov-2024 23:24:45 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/html-api/e84442a0.php:180
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/html-api/e84442a0.php(180): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/html-api/e84442a0.php on line 180
+[10-Nov-2024 23:24:46 America/Boise] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/sltdigit/public_html/csiap/boolet/wp-includes/html-api/e84442a0.php:180
+Stack trace:
+#0 /home2/sltdigit/public_html/csiap/boolet/wp-includes/html-api/e84442a0.php(180): implode('', 'rawurldecode')
+#1 {main}
+  thrown in /home2/sltdigit/public_html/csiap/boolet/wp-includes/html-api/e84442a0.php on line 180
