@@ -1,142 +1,39 @@
 
 
 <html>
-
-
-
     <head>
-
-
-
-            <title>CSIAP Sri Lanka</title>
-
-
-
+        <title>CSIAP Sri Lanka</title>
     </head>
-
-
-
-
-
-
 
     <?php include('includes/header.php'); ?>
 
-
-
-
-
-
-
     <body>
-
-
-
-
-
-
-
-        <!-- Start Preloader Area -->
-
-
-
+     <!-- Start Preloader Area -->
 		<div class="preloader">
-
-
-
 			<div class="lds-ripple">
-
-
-
 				<div></div>
-
-
-
 				<div></div>
-
-
-
 			</div>
-
-
-
 		</div>
+    <!-- End Preloader Area -->
 
+    <?php include('includes/navbar.php'); ?>
 
-
-        <!-- End Preloader Area -->
-
-
-
-
-
-
-
-        <?php include('includes/navbar.php'); ?>
-
-
-
-
-
-
-
-        <div class="page-title-area">
-
-
-
-            <div class="d-table">
-
-
-
-                <div class="d-table-cell">
-
-
-
-                    <div class="container">
-
-
-
-                        <div class="page-title-content">
-
-
-
-                            <h2>Broachers</h2>
-
-
-
-                            <ul>
-
-
-
-                                <li><a href="index">Home</a></li>
-
-
-
-                                <li>Broachers</li>
-
-
-
-                            </ul>
-
-
-
-                        </div>
-
-
-
-                    </div>
-
-
-
+    <div class="page-title-area">
+        <div class="d-table">
+            <div class="d-table-cell">
+                <div class="container">
+                    <div class="page-title-content">
+                        <h2>Broachers</h2>
+                        <ul>
+                            <li><a href="index">Home</a></li>
+                            <li>Broachers</li>
+                        </ul>
+                   </div>
                 </div>
-
-
-
             </div>
-
-
-
         </div>
+    </div>
 
 
 
