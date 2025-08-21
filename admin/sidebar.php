@@ -12,6 +12,8 @@
         border-right: 1px solid var(--border-color);
         transition: transform var(--transition-speed) ease, background-color var(--transition-speed) ease;
         z-index: 1000;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
     }
 
     .sidebar-header {
@@ -25,7 +27,12 @@
     }
 
     .sidebar-header .logo-icon { font-size: 2rem; color: var(--accent-primary); }
-    .sidebar-header .logo-text { font-size: 1.5rem; font-weight: 600; }
+    .sidebar-header .logo-text { 
+        font-size: 1.5rem; 
+        font-weight: 700; 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 0.5px;
+    }
 
     .sidebar-nav { 
         flex-grow: 1; 
@@ -49,6 +56,9 @@
         border-radius: 8px;
         color: var(--text-secondary);
         font-size: 0.95rem;
+        font-weight: 500;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 0.3px;
         transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease, transform var(--transition-speed) ease;
     }
     .nav-link:hover { background-color: rgba(var(--accent-primary-rgb), 0.1); color: var(--accent-primary); transform: translateX(5px); }
@@ -63,7 +73,13 @@
 
     .submenu { max-height: 0; overflow: hidden; transition: max-height var(--transition-speed) ease-in-out; padding-left: 1rem; }
     .has-submenu.active > .submenu { max-height: 500px; }
-    .submenu .nav-link { padding: 0.6rem 1.2rem; font-size: 0.9rem; }
+    .submenu .nav-link { 
+        padding: 0.6rem 1.2rem; 
+        font-size: 0.9rem; 
+        font-weight: 400;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 0.2px;
+    }
 
     .sidebar-footer { margin-top: auto; padding: 1.5rem; }
 
@@ -82,7 +98,7 @@
     <br>
     <ul class="sidebar-nav">
         <li class="nav-item">
-            <a href="#" class="nav-link active">
+            <a href="index.php" class="nav-link active">
                 <i class="fas fa-tachometer-alt"></i>
                 <span>Dashboard</span>
             </a>
@@ -102,8 +118,8 @@
                         <i class="fas fa-chevron-right submenu-toggle-icon"></i>
                     </a>
                     <ul class="submenu">
-                        <li class="nav-item"><a href="#" class="nav-link"><span>All Audio</span></a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><span>Add Audio</span></a></li>
+                        <li class="nav-item"><a href="allAudio.php" class="nav-link"><span>All Audio</span></a></li>
+                        <li class="nav-item"><a href="addAudio.php" class="nav-link"><span>Add Audio</span></a></li>
                     </ul>
                 </li>
                 <li class="nav-item has-submenu">
@@ -112,8 +128,8 @@
                         <i class="fas fa-chevron-right submenu-toggle-icon"></i>
                     </a>
                     <ul class="submenu">
-                        <li class="nav-item"><a href="#" class="nav-link"><span>All Photos</span></a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><span>Add Photos</span></a></li>
+                        <li class="nav-item"><a href="allPhotos.php" class="nav-link"><span>All Photos</span></a></li>
+                        <li class="nav-item"><a href="addPhotos.php" class="nav-link"><span>Add Photos</span></a></li>
                     </ul>
                 </li>
                 <li class="nav-item has-submenu">

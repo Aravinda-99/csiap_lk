@@ -7,12 +7,12 @@ $itemsPerPage = 10;
 $currentPage = isset($_GET['page']) ? (int)$_GET['page'] : 1;
 $currentPage = max(1, $currentPage); // Ensure page is at least 1
 
-// Fetch audio data from database with pagination
+// Fetch photos data from database with pagination
 try {
     $pdo = getConnection();
     
     // Get total count
-    $countStmt = $pdo->query("SELECT COUNT(*) as total FROM audio");
+    $countStmt = $pdo->query("SELECT COUNT(*) as total FROM photos");
     $totalItems = $countStmt->fetch()['total'];
     
     // Calculate pagination
@@ -20,15 +20,15 @@ try {
     $offset = ($currentPage - 1) * $itemsPerPage;
     
     // Fetch paginated data
-    $stmt = $pdo->prepare("SELECT * FROM audio ORDER BY created_at DESC LIMIT ? OFFSET ?");
+    $stmt = $pdo->prepare("SELECT id, name, image_path, status, created_at, updated_at FROM photos ORDER BY created_at DESC LIMIT ? OFFSET ?");
     $stmt->bindValue(1, $itemsPerPage, PDO::PARAM_INT);
     $stmt->bindValue(2, $offset, PDO::PARAM_INT);
     $stmt->execute();
-    $audioFiles = $stmt->fetchAll();
+    $photos = $stmt->fetchAll();
     
 } catch(PDOException $e) {
     $error = "Database error: " . $e->getMessage();
-    $audioFiles = [];
+    $photos = [];
     $totalItems = 0;
     $totalPages = 0;
 }
@@ -38,7 +38,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Audio Management - Admin Panel</title>
+    <title>Photos Management - Admin Panel</title>
     
     <!-- Google Fonts: Poppins -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -338,25 +338,27 @@ try {
             color: #f5a3a3;
         }
 
-        /* Audio URL Display */
-        .audio-url {
+        /* Image Display */
+        .image-thumb {
+            width: 80px;
+            height: 60px;
+            object-fit: cover;
+            border-radius: 6px;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+        }
+        .image-path {
             color: var(--text-primary);
             font-size: 0.75rem;
             font-family: 'Courier New', monospace;
             background-color: rgba(var(--accent-primary-rgb), 0.05);
-            padding: 0.4rem 0.6rem;
+            padding: 0.3rem 0.5rem;
             border-radius: 4px;
             border: 1px solid var(--border-color);
             word-break: break-all;
-            max-width: 200px;
             display: inline-block;
             line-height: 1.3;
-        }
-
-        .no-link {
-            color: var(--text-secondary);
-            font-size: 0.8rem;
-            font-style: italic;
+            max-width: 260px;
         }
 
         /* Action Buttons */
@@ -517,7 +519,7 @@ try {
         <header class="header">
             <div class="header-left">
                 <i class="fas fa-bars menu-toggle" id="menu-toggle"></i>
-                <h1 class="header-title">Audio Management</h1>
+                <h1 class="header-title">Photos Management</h1>
             </div>
             <div class="header-right">
                 
@@ -538,14 +540,14 @@ try {
         <div class="table-container">
             <div class="table-header">
                 <div class="table-title-section">
-                    <h2 class="table-title">Audio Files</h2>
-                    <?php if (!empty($audioFiles)): ?>
-                        <span class="table-count">(<?php echo count($audioFiles); ?> files)</span>
+                    <h2 class="table-title">Photos</h2>
+                    <?php if (!empty($photos)): ?>
+                        <span class="table-count">(<?php echo count($photos); ?> items)</span>
                     <?php endif; ?>
                 </div>
-                <a href="addAudio.php" class="btn-add">
+                <a href="addPhotos.php" class="btn-add">
                     <i class="fas fa-plus"></i>
-                    + Add New Audio
+                    + Add New Photo
                 </a>
             </div>
             
@@ -554,7 +556,8 @@ try {
                     <tr>
                         <th>ID</th>
                         <th>Name</th>
-                        <th>Audio Link</th>
+                        <th>Image</th>
+                        <th>Path</th>
                         <th>Status</th>
                         <th>Created Date</th>
                         <th>Actions</th>
@@ -567,36 +570,40 @@ try {
                                  <?php echo htmlspecialchars($error); ?>
                              </td>
                          </tr>
-                     <?php elseif (empty($audioFiles)): ?>
+                     <?php elseif (empty($photos)): ?>
                          <tr>
                              <td colspan="6" style="text-align: center; color: var(--text-secondary); padding: 2rem;">
-                                 No audio files found in the database.
+                                 No photos found in the database.
                              </td>
                          </tr>
                     <?php else: ?>
-                        <?php foreach ($audioFiles as $audio): ?>
-                                                         <tr id="audio-row-<?php echo htmlspecialchars($audio['id']); ?>">
-                                 <td><?php echo htmlspecialchars($audio['id']); ?></td>
-                                 <td><?php echo htmlspecialchars($audio['name']); ?></td>
+                        <?php foreach ($photos as $photo): ?>
+                                                         <tr id="photo-row-<?php echo htmlspecialchars($photo['id']); ?>">
+                                 <td><?php echo htmlspecialchars($photo['id']); ?></td>
+                                 <td><?php echo htmlspecialchars($photo['name']); ?></td>
                                 <td>
-                                    <?php if (!empty($audio['audio_link'])): ?>
-                                        <span class="audio-url"><?php echo htmlspecialchars($audio['audio_link']); ?></span>
-                                    <?php else: ?>
-                                        <span class="no-link">No link</span>
-                                    <?php endif; ?>
+                                    <?php 
+                                        $imgPath = isset($photo['image_path']) ? $photo['image_path'] : '';
+                                        $isAbsolute = preg_match('#^(?:https?://|/)#', $imgPath) === 1;
+                                        $imgSrc = $isAbsolute ? $imgPath : ('../' . ltrim($imgPath, '/'));
+                                    ?>
+                                    <img src="<?php echo htmlspecialchars($imgSrc); ?>" alt="Photo" class="image-thumb" onerror="this.onerror=null;this.src='https://placehold.co/80x60?text=No+Img';">
                                 </td>
                                 <td>
-                                    <?php if ($audio['status'] === 'active'): ?>
+                                    <span class="image-path"><?php echo htmlspecialchars($photo['image_path']); ?></span>
+                                </td>
+                                <td>
+                                    <?php if ($photo['status'] === 'active'): ?>
                                         <span class="status-badge status-active">Active</span>
                                     <?php else: ?>
                                         <span class="status-badge status-inactive">Inactive</span>
                                     <?php endif; ?>
                                 </td>
-                                <td><?php echo date('Y-m-d', strtotime($audio['created_at'])); ?></td>
+                                <td><?php echo date('Y-m-d', strtotime($photo['created_at'])); ?></td>
                                 <td>
                                     <div class="action-buttons">
-                                        <button class="btn-edit" onclick="editAudio(<?php echo htmlspecialchars($audio['id']); ?>)">Edit</button>
-                                        <button class="btn-delete" onclick="deleteAudio(<?php echo htmlspecialchars($audio['id']); ?>)">Delete</button>
+                                        <button class="btn-edit" onclick="editPhoto(<?php echo htmlspecialchars($photo['id']); ?>)">Edit</button>
+                                        <button class="btn-delete" onclick="deletePhoto(<?php echo htmlspecialchars($photo['id']); ?>)">Delete</button>
                                     </div>
                                 </td>
                             </tr>
@@ -609,7 +616,7 @@ try {
             <?php if ($totalPages > 1): ?>
                 <div class="pagination-container">
                     <div class="pagination-info">
-                        Showing <?php echo $offset + 1; ?> to <?php echo min($offset + $itemsPerPage, $totalItems); ?> of <?php echo $totalItems; ?> files
+                        Showing <?php echo $offset + 1; ?> to <?php echo min($offset + $itemsPerPage, $totalItems); ?> of <?php echo $totalItems; ?> items
                     </div>
                     <div class="pagination-controls">
                         <?php if ($currentPage > 1): ?>
@@ -724,29 +731,29 @@ try {
             applyTheme(); // Apply theme on initial load
         });
 
-        // --- AUDIO MANAGEMENT FUNCTIONS ---
-        function editAudio(id) {
-            window.location.href = `editAudio.php?id=${id}`;
+        // --- PHOTO MANAGEMENT FUNCTIONS ---
+        function editPhoto(id) {
+            window.location.href = `editPhotos.php?id=${id}`;
         }
 
-        function deleteAudio(id) {
-            if (!confirm(`Are you sure you want to delete audio with ID: ${id}?`)) {
+        function deletePhoto(id) {
+            if (!confirm(`Are you sure you want to delete photo with ID: ${id}?`)) {
                 return;
             }
 
             const formData = new FormData();
             formData.append('id', id);
 
-            fetch('deleteAudio.php', {
+            fetch('deletePhotos.php', {
                 method: 'POST',
                 body: formData
             })
             .then(res => res.json())
             .then(data => {
                 if (data && data.success) {
-                    const row = document.getElementById(`audio-row-${id}`);
+                    const row = document.getElementById(`photo-row-${id}`);
                     if (row) row.remove();
-                    alert('Audio deleted successfully.');
+                    alert('Photo deleted successfully.');
                 } else {
                     alert(`Failed to delete: ${data && data.message ? data.message : 'Unknown error'}`);
                 }
