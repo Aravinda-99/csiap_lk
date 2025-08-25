@@ -138,8 +138,8 @@
                         <i class="fas fa-chevron-right submenu-toggle-icon"></i>
                     </a>
                     <ul class="submenu">
-                        <li class="nav-item"><a href="#" class="nav-link"><span>All Videos</span></a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><span>Add Videos</span></a></li>
+                        <li class="nav-item"><a href="allVideo.php" class="nav-link"><span>All Videos</span></a></li>
+                        <li class="nav-item"><a href="addVideo.php" class="nav-link"><span>Add Videos</span></a></li>
                     </ul>
                 </li>
             </ul>
