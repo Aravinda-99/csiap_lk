@@ -227,8 +227,8 @@
                                 <i class="fas fa-chevron-right submenu-toggle-icon"></i>
                             </a>
                             <ul class="submenu">
-                                <li class="nav-item"><a href="#" class="nav-link"><span>All Brochures</span></a></li>
-                                <li class="nav-item"><a href="#" class="nav-link"><span>Add Brochures</span></a></li>
+                                <li class="nav-item"><a href="allBroachers.php" class="nav-link"><span>All Brochures</span></a></li>
+                                <li class="nav-item"><a href="addBrochers.php" class="nav-link"><span>Add Brochures</span></a></li>
                             </ul>
                         </li>
                         <li class="nav-item has-submenu">
