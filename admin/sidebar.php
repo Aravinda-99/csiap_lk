@@ -169,8 +169,8 @@
                         <i class="fas fa-chevron-right submenu-toggle-icon"></i>
                     </a>
                     <ul class="submenu">
-                        <li class="nav-item"><a href="#" class="nav-link"><span>All Articles</span></a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><span>Add Articles</span></a></li>
+                        <li class="nav-item"><a href="allArticle.php" class="nav-link"><span>All Articles</span></a></li>
+                        <li class="nav-item"><a href="addArticle.php" class="nav-link"><span>Add Articles</span></a></li>
                     </ul>
                 </li>
             </ul>
