@@ -190,8 +190,8 @@
                         <i class="fas fa-chevron-right submenu-toggle-icon"></i>
                     </a>
                     <ul class="submenu">
-                        <li class="nav-item"><a href="#" class="nav-link"><span>All Notices</span></a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><span>Add Notices</span></a></li>
+                        <li class="nav-item"><a href="allbidnotice.php" class="nav-link"><span>All Notices</span></a></li>
+                        <li class="nav-item"><a href="addbidnotice.php" class="nav-link"><span>Add Notices</span></a></li>
                     </ul>
                 </li>
                 <li class="nav-item has-submenu">
@@ -200,8 +200,8 @@
                         <i class="fas fa-chevron-right submenu-toggle-icon"></i>
                     </a>
                     <ul class="submenu">
-                        <li class="nav-item"><a href="#" class="nav-link"><span>All Vacancies</span></a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><span>Add Vacancies</span></a></li>
+                        <li class="nav-item"><a href="allVacancies.php" class="nav-link"><span>All Vacancies</span></a></li>
+                        <li class="nav-item"><a href="addVacancies.php" class="nav-link"><span>Add Vacancies</span></a></li>
                     </ul>
                 </li>
             </ul>
